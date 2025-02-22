@@ -1,8 +1,8 @@
-﻿## Overview
+﻿# Overview
 
-You’ll find the final report & post-report reflection in the Report folder
+See the [Review](./Review) folder for the final report & reflection
 
-## Challenge Description
+# Challenge Description
 
 The French Fiscal AI Innovation and Prediction Challenge, held in collaboration with the Joint Research Centre (JRC), the Science Hub of the European Union Commission, presents a unique opportunity to examine 40 years of French tax data. The JRC, known for its commitment to providing rigorous, evidence-based scientific and technical support to EU policymakers, is partnering to enhance data-driven decision-making. Participants will employ their analytical prowess and predictive modeling skills to reveal significant insights into the fiscal behaviors of French municipalities.
 
