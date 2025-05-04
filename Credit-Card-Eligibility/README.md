@@ -1,5 +1,3 @@
-# Overview
-
 # About Dataset
 
 https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
@@ -31,18 +29,26 @@ Each row in the dataset represents a unique individual, identified by a unique I
 |Occupation_type | The type of occupation the individual is engaged in. |
 |Target | The target variable for the classification task, indicating whether the individual is eligible for a credit card or not (e.g., Yes/No, 1/0). |
 
-# Lessons Learned
+# Process
+# Analysis
+# Meta Analysis / Lessons Learned
+
+Like all projects, I learned a lot while going through and in hindsight, would have preferred to reorganize / redo the project in certain ways. In this section I explain those ways and have some feedback for myself in the next project.
+
+### Scope the project better
+This project started as a simple classification example with a RandomForestClassifier. I saw the data science competitions on Kaggle and wanted to reproduce / improve some of the datasets I saw. In doing so, I learned about SMOTE, and how SMOTE may actually be a bad way to organize or interpolate data. So then I expanded the project into a SMOTE decomposition, but then, maybe SMOTE works better or worse for certain classifiers? So now we're also doing GradientBoostClassifier. But is all sampling bad (or good), or is it just SMOTE? Now we're doing RandomOverSampling.
+
+The worst part of all of this is, it's still a bad study. I should drill down and more specifically examine a single variable instead of multiple. For example, if I was interested in identifying the effectiveness of smote, I should do a full test on GradientBoostClassifier with/without SMOTE against multiple datasets, with multiple types of data, with lots of other variables modified & triggered, with intelligent design, hypothesis, and testing of PRO or ANTI SMOTE resources I found online. I should also understand the [original paper for SMOTE]([url](https://arxiv.org/pdf/1106.1813)) and SMOTENC, understand what it's describing and what problem it's trying to solve, and then identify if it actually solves that problem. However I'm not getting paid to do that and I have a full time job.
+
+For example, there's a lot of literature that suggests SMOTE is just bad ML practice, and smarter people than I have done studies on it. See here: [Link1]([url](https://datascience.stackexchange.com/questions/106461/why-smote-is-not-used-in-prize-winning-kaggle-solutions)) / [Link2]([url](https://stats.stackexchange.com/questions/357466/are-unbalanced-datasets-problematic-and-how-does-oversampling-purport-to-he)) / [Link3]([url](https://arxiv.org/abs/2201.08528))
+
+So maybe I shouldn't feel so bad. It looks like real scientists and not frauds (like myself) have identified this as a problem, and this was really just a fun side project anyway.
+
 My variables are named poorly
 feature importance on scaled data and not unscaled data
 Once i started pivoting between SMOTE and other samplers and classifiers, I got disorganized
 for SMOTE I didn't down the majority class as is recommended
 ROS seems to downsample the majority class but I can't find documentation that says it should do this, I thought it would only randomly upsample the minority class
-# Overview
-## Process
-## Analysis
-## Meta Analysis
-
-
 
 
 ## Notes to be digested
