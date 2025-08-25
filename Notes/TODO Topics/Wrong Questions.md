@@ -1,0 +1,1 @@
+https://stats.meta.stackexchange.com/questions/5000/what-to-do-about-wrong-questions
