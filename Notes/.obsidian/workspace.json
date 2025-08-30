@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO Topics/Wrong Questions.md",
+                "file": "Vocabulary/Central Limit Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wrong Questions"
+              "title": "Central Limit Theorem"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "file-tree-view"
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -191,43 +191,48 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "76a52dac2819f6a5",
+  "active": "dc21bee8936eb568",
   "lastOpenFiles": [
-    "TODO Topics/TODO Topics.md",
-    "TODO Topics/Wrong Questions.md",
-    "TODO Topics/Identifying Accuracy in Models.md",
+    "Vocabulary/Log Likelihood.md",
+    "Vocabulary/Central Limit Theorem.md",
+    "Images/To Smote or not to SMOTE.pdf",
+    "Images/MLE.png",
+    "Images/MixturePic.png",
+    "Images/MixtureComponents.png",
+    "Images/Logistic Regression in Rare Events Data.pdf",
+    "Images/EMEstimation.png",
+    "Images/concept2_certificate_dog-days_2026_100.pdf",
     "TODO Topics/Over & Under Sampling, Balancing.md",
-    "TODO Topics/Classification vs Prediction.md",
     "Supervised/Decision Trees/Decision Trees.md",
+    "TODO Topics/Clustering Categorical Data.md",
+    "TODO Topics/TODO Topics.md",
+    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Expectation Maximization (EM)/Expectation Maximization (EM).md",
+    "Unsupervised/Clustering/Mixtures/Maximum Likelihood Estimation (MLE).md",
+    "Unsupervised/Clustering/Mixtures/Mixtures.md",
+    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Dirichlet Process Model (DPM)/Dirichlet Process Model (DPM).md",
+    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Infinite Mixture Model (IMM).md",
+    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Finite Mixture Model (FMM).md",
+    "TODO Topics/Identifying Accuracy in Models.md",
+    "TODO Topics/Wrong Questions.md",
+    "TODO Topics/Classification vs Prediction.md",
     "Bayesian Statistics/Bayesian Statistics.md",
     "Unsupervised",
-    "Unsupervised/Clustering/Mixtures/Mixtures.md",
     "Supervised/Decision Trees",
     "Supervised",
-    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Dirichlet Process Model (DPM)/Dirichlet Process Model (DPM).md",
     "TODO Topics",
-    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Infinite Mixture Model (IMM).md",
-    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Expectation Maximization (EM)/Expectation Maximization (EM).md",
     "Unsupervised/Clustering/Latent Class Model/Latent Class Model.md",
-    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Finite Mixture Model (FMM).md",
     "Unsupervised/Clustering/Latent Class Model",
-    "Images/MixturePic.png",
     "Gaussian Mixture Model (GMM).md",
     "Clustering/Mixtures/Gaussian Mixture Model (GMM)/Gaussian Mixture Model (GMM).md",
-    "Images/MixtureComponents.png",
     "Vocabulary/Latent Variables.md",
     "Images",
     "Unsupervised/Clustering/Mixtures",
-    "Vocabulary",
     "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Untitled.canvas",
-    "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Untitled.base",
     "Bayesian Statistics/Subfolder/Subfolder.md",
     "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Expectation Maxima.md",
-    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Expectation Maximization (EM)",
     "Bayesian Statistics/Bayesian Statisticsa.md",
     "Other/Shongle.md",
     "Other/Untitled.md",
-    "Untitled.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
