@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+  <diagram name="Page-1" id="S2N-RMqWYDTiOqKHDeJl">
+    <mxGraphModel dx="872" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#666666;" value="θ&lt;sub&gt;r&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-8" edge="1" parent="1" source="aFpp9fcRe_oRFEo-vIiO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#666666;" target="aFpp9fcRe_oRFEo-vIiO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#666666;" value="Model" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="When given real data (a single sample d1), the hidden math environment looks like this:&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="300" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0" value="d&lt;sub&gt;1&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0" value="&lt;div&gt;&lt;span&gt;μ = 123&lt;/span&gt;&lt;/div&gt;σ = 456" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#000000;" value="θ&lt;sub&gt;r&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-13" edge="1" parent="1" source="aFpp9fcRe_oRFEo-vIiO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#000000;fontColor=default;" target="aFpp9fcRe_oRFEo-vIiO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-14" edge="1" parent="1" source="aFpp9fcRe_oRFEo-vIiO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;strokeColor=#000000;fontColor=default;" target="aFpp9fcRe_oRFEo-vIiO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-15" edge="1" parent="1" source="aFpp9fcRe_oRFEo-vIiO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;strokeColor=#000000;fontColor=default;" target="aFpp9fcRe_oRFEo-vIiO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#000000;" value="Model" vertex="1">
+          <mxGeometry height="30" width="100" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Bayesian Statistics attempts to calculate &lt;b&gt;&lt;u&gt;the&lt;/u&gt;&lt;/b&gt; model that created your discrete data sample, because your sample is actually part of an existing, hidden distribution" vertex="1">
+          <mxGeometry height="30" width="300" x="430" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0" value="d&lt;sub&gt;1&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="450" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#666666;" value="d&lt;sub&gt;2&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="555" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontStyle=0;fontColor=#666666;" value="d&lt;sub&gt;n&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="660" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0" value="&lt;div&gt;&lt;span&gt;μ = 123&lt;/span&gt;&lt;/div&gt;σ = 456" vertex="1">
+          <mxGeometry height="30" width="90" x="430" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0;fontColor=#666666;" value="&lt;div&gt;&lt;span&gt;μ = 111&lt;/span&gt;&lt;/div&gt;σ = 222" vertex="1">
+          <mxGeometry height="30" width="90" x="535" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0;fontColor=#666666;" value="&lt;div&gt;&lt;span&gt;μ = 333&lt;/span&gt;&lt;/div&gt;σ = 444" vertex="1">
+          <mxGeometry height="30" width="90" x="640" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0;fontColor=#666666;" value="&lt;div&gt;&lt;span&gt;μ = ???&lt;/span&gt;&lt;/div&gt;σ = ???" vertex="1">
+          <mxGeometry height="30" width="90" x="270" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aFpp9fcRe_oRFEo-vIiO-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=0" value="&lt;div&gt;&lt;span&gt;μ = [100, 400]&lt;/span&gt;&lt;/div&gt;σ = [1, 3]" vertex="1">
+          <mxGeometry height="30" width="110" x="630" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

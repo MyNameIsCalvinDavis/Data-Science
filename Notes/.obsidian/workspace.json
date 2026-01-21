@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df7a314e68a27fd6",
+        "id": "dfb32782ecfc2ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc21bee8936eb568",
+            "id": "fdd74320e45ad885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Central Limit Theorem.md",
+                "file": "Bayesian Statistics/Bayesian Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Central Limit Theorem"
+              "title": "Bayesian Statistics"
             }
           }
         ]
@@ -86,6 +86,30 @@
           },
           {
             "id": "531ed0680a9c5aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Statistics/Bayesian Statistics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Statistics"
+            }
+          },
+          {
+            "id": "ec359190ec6e7c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "d8e34d68afe6ab56",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -191,48 +215,55 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "dc21bee8936eb568",
+  "active": "fdd74320e45ad885",
   "lastOpenFiles": [
-    "Vocabulary/Log Likelihood.md",
-    "Vocabulary/Central Limit Theorem.md",
-    "Images/To Smote or not to SMOTE.pdf",
-    "Images/MLE.png",
-    "Images/MixturePic.png",
-    "Images/MixtureComponents.png",
-    "Images/Logistic Regression in Rare Events Data.pdf",
-    "Images/EMEstimation.png",
-    "Images/concept2_certificate_dog-days_2026_100.pdf",
-    "TODO Topics/Over & Under Sampling, Balancing.md",
-    "Supervised/Decision Trees/Decision Trees.md",
-    "TODO Topics/Clustering Categorical Data.md",
-    "TODO Topics/TODO Topics.md",
-    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Expectation Maximization (EM)/Expectation Maximization (EM).md",
-    "Unsupervised/Clustering/Mixtures/Maximum Likelihood Estimation (MLE).md",
-    "Unsupervised/Clustering/Mixtures/Mixtures.md",
-    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Dirichlet Process Model (DPM)/Dirichlet Process Model (DPM).md",
-    "Unsupervised/Clustering/Mixtures/Infinite Mixture Model (IMM)/Infinite Mixture Model (IMM).md",
-    "Unsupervised/Clustering/Mixtures/Finite Mixture Model (FMM)/Finite Mixture Model (FMM).md",
-    "TODO Topics/Identifying Accuracy in Models.md",
-    "TODO Topics/Wrong Questions.md",
-    "TODO Topics/Classification vs Prediction.md",
+    "Bayesian Statistics/Basics/Vocab/Vocab.md",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251228142457.png",
+    "Bayesian Statistics/Basics/Sample Spaces & Events/Sample Spaces & Events.md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Probability Density Estimation (PDE).md",
     "Bayesian Statistics/Bayesian Statistics.md",
-    "Unsupervised",
-    "Supervised/Decision Trees",
-    "Supervised",
-    "TODO Topics",
-    "Unsupervised/Clustering/Latent Class Model/Latent Class Model.md",
-    "Unsupervised/Clustering/Latent Class Model",
-    "Gaussian Mixture Model (GMM).md",
-    "Clustering/Mixtures/Gaussian Mixture Model (GMM)/Gaussian Mixture Model (GMM).md",
-    "Vocabulary/Latent Variables.md",
-    "Images",
-    "Unsupervised/Clustering/Mixtures",
-    "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Untitled.canvas",
-    "Bayesian Statistics/Subfolder/Subfolder.md",
-    "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Expectation Maxima.md",
-    "Bayesian Statistics/Bayesian Statisticsa.md",
-    "Other/Shongle.md",
-    "Other/Untitled.md",
-    "Untitled.md"
+    "Bayesian Statistics/BayesianStatsModelIntro.drawio",
+    "Bayesian Statistics/Pasted image 20251228140949.png",
+    "BayesianStatsModelIntro.drawio",
+    "Bayesian Statistics/Example Problems/Example Problems.md",
+    "Bayesian Statistics/Probability Functions/Probability Functions.md",
+    "Bayesian Statistics/Python Libraries/Python Libraries.md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Kernel Density Estimation (KDE)/Kernel Density Estimation (KDE).md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Beta Distribution/Beta Distribution.md",
+    "Bayesian Statistics/Basics/Bayesian Modeling Steps.md",
+    "Bayesian Statistics/Basics/How to choose priors/How to choose priors.md",
+    "Pasted image 20251129135031.png",
+    "Bayesian Statistics/Example Problems",
+    "Bayesian Statistics/Basics/How to choose priors",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129122459.png",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129130214.png",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129130209.png",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129124754.png",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129121140.png",
+    "Untitled.md",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129120126.png",
+    "Bayesian Statistics/Basics/Vocab/Pasted image 20251129113539.png",
+    "Bayesian Statistics/Python Libraries",
+    "Bayesian Statistics/Probability Functions",
+    "MX/Untitled.base",
+    "2025-09-27.md",
+    "Untitled",
+    "MX",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Unsupervised/Dimensionality Reduction/Manifold Learning/Isomap/Isomap.md",
+    "Unsupervised/Dimensionality Reduction/Manifold Learning/Manifold Learning.md",
+    "Unsupervised/Dimensionality Reduction/Principle Component Analysis (PCA)/Principle Component Analysis (PCA).md",
+    "Unsupervised/Dimensionality Reduction/Manifold Learning/Locally Linear Embedding (LLE)/Locally Linear Embedding (LLE).md",
+    "Unsupervised/Dimensionality Reduction/Manifold Learning/Multidimensional Scaling (MDS)/Multidimensional Scaling (MDS).md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Dirichlet/Dirichlet Process Model (DPM, DPMM)/Dirichlet Process Model (DPM, DPMM).md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Dirichlet/Dirichlet Distribution/Dirichlet Distribution.md",
+    "Unsupervised/Clustering/Gaussian Mixtures/Maximum Likelihood Estimation (MLE).md",
+    "Bayesian Statistics/Probability Density Estimation (PDE)/Dirichlet/Dirichlet Process/Dirichlet Process.md",
+    "Unsupervised/Clustering/Gaussian Mixtures/Finite Mixture Model (FMM)/Finite Mixture Model (FMM).md",
+    "Unsupervised/Clustering/Gaussian Mixtures/Finite Mixture Model (FMM)/Expectation Maximization (EM)/Expectation Maximization (EM).md",
+    "Unsupervised/Clustering/Gaussian Mixtures/Infinite Mixture Model/Infinite Mixture Model.md",
+    "Clustering/Gaussian Mixture Model (GMM)/Finite Mixture Model (FMM)/Untitled.canvas"
   ]
 }
