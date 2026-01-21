@@ -1,0 +1,11 @@
+name: stat-rethink2-pymc
+channels:
+- conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - seaborn
+  - watermark
+  - pymc3
+  - arviz
+  - theano-pymc
